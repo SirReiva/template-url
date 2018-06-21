@@ -1,0 +1,25 @@
+{
+  "name": "template-url",
+  "version": "1.0.0",
+  "description": "Template loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VagnerSilva/template-url.git"
+  },
+  "keywords": [
+    "template",
+    "url",
+    "loader",
+    "webpack"
+  ],
+  "author": "Vagner Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VagnerSilva/template-url/issues"
+  },
+  "homepage": "https://github.com/VagnerSilva/template-url#readme"
+}
