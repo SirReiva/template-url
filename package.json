@@ -2,6 +2,7 @@
   "name": "template-url",
   "version": "1.0.0",
   "description": "Template loader",
+  "readmeFilename": "README.md" ,
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
