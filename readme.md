@@ -1,6 +1,7 @@
 # Webpack loader
 #### Template Url
 
+
 Replace object url to require
 
 ```js
@@ -15,10 +16,11 @@ templateUrl: require('./index.html')
 ```
 
 ###  webpack
+**install:**    npm i -D template-url-webpack
 ```js
 {
 	test: /\.js$/,
-	loader:  'template-url',
+	loader:  'template-url-webpack',
 	exclude: ['node_modules'],
 	include: [path.resolve(__dirname, 'src')]
 },
