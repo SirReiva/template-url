@@ -1,26 +1,19 @@
 {
-  "name": "template-url-webpack",
+  "name": "templates-url-webpack",
   "version": "1.0.0",
-  "description": "Template loader",
-  "readmeFilename": "README.md" ,
+  "description": "Replace object url to require",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VagnerSilva/template-url.git"
+    "url": "git+https://github.com/SirReiva/template-url.git"
   },
-  "keywords": [
-    "template",
-    "url",
-    "loader",
-    "webpack"
-  ],
-  "author": "Vagner Silva",
+  "author": "Reiva",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/VagnerSilva/template-url/issues"
+    "url": "https://github.com/SirReiva/template-url/issues"
   },
-  "homepage": "https://github.com/VagnerSilva/template-url#readme"
+  "homepage": "https://github.com/SirReiva/template-url#readme"
 }
